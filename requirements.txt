@@ -1,1 +1,3 @@
 pysimverse
+opencv-python
+pynput

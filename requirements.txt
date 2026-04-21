@@ -1,3 +1,4 @@
 pysimverse
 opencv-python
 pynput
+mediapipe

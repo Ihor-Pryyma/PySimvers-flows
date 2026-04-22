@@ -2,3 +2,4 @@ pysimverse
 opencv-python
 pynput
 mediapipe
+cvzone
